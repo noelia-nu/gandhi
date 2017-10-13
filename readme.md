@@ -9,6 +9,6 @@
 2. Open terminal
 3. Run `npm install`
 4. Compile SCSS by running gulp tasks `gulp`
-5. Open index.html in your favorite browser
+5. Open **index.html** in your favorite browser
 
-> Any comments send an email to [noelia.nuvi@gmail.com](emailto:noelia.nuvi@gmail.com?Subject=About Gandhi GitHub project)
+> Any comments send an email to [noelia.nuvi@gmail.com]
