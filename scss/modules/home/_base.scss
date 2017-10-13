@@ -1,0 +1,20 @@
+.summary {
+  margin-top: 2rem;
+  font-size: $text-lg;
+}
+
+.section--home {
+  height: 100vh;
+}
+
+.background--bookstore {
+  background: url(../img/bookstore.jpg) no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.background--music {
+  background: url(../img/music.jpg) no-repeat;
+  background-position: center;
+  background-size: cover;
+}

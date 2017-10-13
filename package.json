@@ -1,0 +1,15 @@
+{
+  "name": "Gandhi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulp.js",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.6.0"
+  },
+  "author": "Noelia Berenice Nunez Lopez",
+  "license": "GNU"
+}

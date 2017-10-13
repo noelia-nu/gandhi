@@ -1,0 +1,13 @@
+.navbar-inverse {
+  background-color: #313332;
+}
+
+#logo {
+  background: url(../img/logo.png) no-repeat;
+  background-size: contain;
+  height: 70px;
+  position: absolute;
+  top: 11px;
+  width: 100px;
+  z-index: 1;
+}
